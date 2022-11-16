@@ -1,0 +1,32 @@
+<svg width="747px"
+     height="588px"
+     viewBox="0 0 747 588"
+     version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="67.5057252%" id="linearGradient-1">
+            <stop stop-color="#2575FC" offset="0%"></stop>
+            <stop stop-color="#6A11CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Design"
+       stroke="none"
+       stroke-width="1"
+       fill=""
+       fill-rule="evenodd"
+       fill-opacity="0.85">
+        <g id="Scroll"
+           transform="translate(-347.000000, -1519.000000)"
+           fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(347.000000, 1519.000000)">
+                <polygon id="Rectangle-5"
+                         style="mix-blend-mode: multiply;"
+                         points="0.277115541 0.755907291 730.544625 59.2223977 746.5 547.076608 49.5566507 587.17356"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
